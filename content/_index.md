@@ -9,4 +9,4 @@ In pursuit of creating an AEO/GEO roadmap for my brands, I learned how to write 
 
 Welcome to my scratch pad. I welcome your thoughts, perspective, and criticisms, but to be clear, I want to stress what this is intended to be and what it is not.
 
-![Intro table](/images/landing-page-table.png)
+![Intro table](/Images/landing-page-table.png)
