@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Digital Transformation on Brandon G</title>
-    <link>http://localhost:1313/tags/digital-transformation/</link>
+    <link>https://bgood35.github.io/tags/digital-transformation/</link>
     <description>Recent content in Digital Transformation on Brandon G</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/digital-transformation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bgood35.github.io/tags/digital-transformation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Marketers Will Get A.I. Wrong Before They Get It Right</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://bgood35.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://bgood35.github.io/posts/my-first-post/</guid>
       <description>A.I. won&amp;#39;t fix marketing&amp;#39;s measurement problems — but it will expose them. The real challenge isn&amp;#39;t learning to prompt; it&amp;#39;s learning to think.</description>
     </item>
   </channel>
