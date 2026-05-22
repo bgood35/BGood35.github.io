@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome. Why are you here? on Brandon G</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome. Why are you here? on Brandon G</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Marketers Will Get A.I. Wrong Before They Get It Right</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>A.I. won&amp;#39;t fix marketing&amp;#39;s measurement problems — but it will expose them. The real challenge isn&amp;#39;t learning to prompt; it&amp;#39;s learning to think.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;This website is an experiment.&lt;/p&gt;
+&lt;p&gt;I built it using Hugo and GitHub Pages, learning the technical stack from scratch with A.I. assistance — not because I needed a website, but because I wanted to understand how large language models consume, interpret, and prioritize content. That curiosity started with an AEO/GEO roadmap I was developing for my brands and has since expanded into a broader question: what does it actually mean to work effectively with A.I. in a marketing context?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Past Work</title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>&lt;p&gt;Past Work:&lt;/p&gt;
+&lt;p&gt;Not the role of of this site, but some campaigns I am proud of:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2026, Babybel “Wax Tracks”, &lt;a href=&#34;https://clios.com/winners-gallery/details?id=216713&#34;&gt;Silver Clio, Sonic Branding&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2024, Goldfish “Hand Dish” , &lt;a href=&#34;https://clios.com/winners-gallery/details?id=13305&#34;&gt;Bronze Clio, Social Media&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2023, Goldfish “Jingle”, Gold Clio,  Audio/Sonic Branding; &lt;a href=&#34;https://clios.com/winners-gallery/details?id=153831&#34;&gt;Silver Direct/Mixed Campaign&lt;/a&gt;; Bronze, Social Media/User Generated Content&lt;/li&gt;
+&lt;li&gt;2020, HSBC “New-to-Country”, &lt;a href=&#34;https://www.phdmedia.com/phd-us-wins-at-i-com-data-creativity-awards-2020/&#34;&gt;I-COM’s Data Creativity Award, Location-Based Category&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, Google Home, &lt;a href=&#34;https://www.adweek.com/creativity/media-plan-of-the-year/&#34;&gt;Adweek Media Plan of the Year, Best Use of Branded Content/Entertainment $2MM+&lt;/a&gt;; [Gold Obie]; Gold Festival of Media, OOH, and &lt;a href=&#34;https://www-archive.oaaa.org/LinkClick.aspx?fileticket=WLgkswYjBzo%3D&amp;amp;tabid=450&amp;amp;portalid=0&amp;amp;mid=1210#:~:text=want%20to%20avoid.,%2C%20Bucktown%2C%20and%20West%20Loop.&#34;&gt;OAAA Plan of the Year&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2017, Google Pixel Launch, Silver Festival of Media&lt;/li&gt;
+&lt;li&gt;2016, Google Chromecast &lt;a href=&#34;https://www.youtube.com/watch?v=aaK29kTSeak&#34;&gt;“Own the Ice”&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
