@@ -1,4 +1,3 @@
-markdown
 ---
 title: "Strategy Cannot Survive a Polluted Culture"
 date: 2025-06-08
