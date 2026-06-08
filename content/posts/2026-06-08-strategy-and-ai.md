@@ -1,6 +1,6 @@
 ---
 title: "Strategy Cannot Survive a Polluted Culture"
-date: 2025-06-08
+date: 2026-06-08
 draft: false
 ---
 
