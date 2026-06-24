@@ -1,0 +1,31 @@
+:root {
+  --theme:     #FFFFFF;
+  --entry:     #FFFFFF;
+  --primary:   #21395B;
+  --secondary: #5B6B7B;
+  --tertiary:  #EAF0F6;
+  --content:   #1F2933;
+  --border:    #D7DEE7;
+  --code-bg:   #F4F7FA;
+}
+
+body,
+.post-content {
+  font-family: "Carlito", Calibri, "Segoe UI", system-ui, -apple-system, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6,
+.post-title,
+.entry-header h1, .entry-header h2,
+.first-entry .entry-header h1,
+.logo a {
+  font-family: "Caladea", Cambria, Georgia, "Times New Roman", serif;
+}
+
+.post-content a {
+  color: #2E5C8A;
+  box-shadow: 0 1px 0 #2E5C8A;
+}
+.post-content a:hover {
+  box-shadow: 0 2px 0 #2E5C8A;
+}

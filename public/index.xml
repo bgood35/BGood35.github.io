@@ -2,32 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Welcome. Why are you here? on Brandon G</title>
-    <link>https://bgood35.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome. Why are you here? on Brandon G</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bgood35.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strategy Cannot Survive a Polluted Culture</title>
+      <link>http://localhost:1313/posts/2026-06-08-strategy-and-ai/</link>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2026-06-08-strategy-and-ai/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Show me the incentive and I&amp;rsquo;ll show you the outcome.&amp;rdquo; — Charlie Munger&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In the &amp;ldquo;who eats whom&amp;rdquo; debate between Strategy, Execution, or Culture, I would argue that Strategy &amp;ldquo;eats&amp;rdquo; Execution and Culture is the water in which everyone swims. Strategy is not a by-product of culture, but it does determine which strategies can survive within an organization. Rather than putting a premium on strategy, where A.I. has become a mandate, it has polluted waters in which strategic thinking previously flourished.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Why Marketers Will Get A.I. Wrong Before They Get It Right</title>
-      <link>https://bgood35.github.io/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://bgood35.github.io/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>A.I. won&amp;#39;t fix marketing&amp;#39;s measurement problems — but it will expose them. The real challenge isn&amp;#39;t learning to prompt; it&amp;#39;s learning to think.</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://bgood35.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bgood35.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;This website is an experiment.&lt;/p&gt;
 &lt;p&gt;I built it using Hugo and GitHub Pages, learning the technical stack from scratch with A.I. assistance — not because I needed a website, but because I wanted to understand how large language models consume, interpret, and prioritize content. That curiosity started with an AEO/GEO roadmap I was developing for my brands and has since expanded into a broader question: what does it actually mean to work effectively with A.I. in a marketing context?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Past Work</title>
-      <link>https://bgood35.github.io/portfolio/</link>
+      <link>http://localhost:1313/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bgood35.github.io/portfolio/</guid>
+      <guid>http://localhost:1313/portfolio/</guid>
       <description>&lt;p&gt;Past Work:&lt;/p&gt;
 &lt;p&gt;Not the role of of this site, but some campaigns I am proud of:&lt;/p&gt;
 &lt;ul&gt;
