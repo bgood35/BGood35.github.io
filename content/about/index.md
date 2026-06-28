@@ -1,6 +1,5 @@
 ---
 title: "About"
-description: "An experiment in working effectively with AI in marketing — Brandon Goodman on why the rush to adopt AI risks making marketing less effective, and how to use it more deliberately."
 draft: false
 ---
 

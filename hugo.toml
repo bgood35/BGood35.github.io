@@ -10,6 +10,9 @@ paginate = 5
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
+[params.label]
+  text = "Brandon Goodman"
+
 defaultTheme = "light"
 disableThemeToggle = true
 
