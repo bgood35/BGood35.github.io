@@ -77,8 +77,8 @@ h1, h2, h3, h4, h5, h6,
 .work-page #awards { padding:42px 0 10px; }
 .work-page #awards h2 { font-family:"Questrial","Century Gothic",sans-serif;color:var(--navy);font-size:26px;font-weight:400;margin:0 0 6px; }
 .work-page #awards .sub { color:var(--muted);margin:0 0 20px; }
-.work-page .award { padding:14px 0;border-bottom:1px solid var(--rule);display:flex;flex-wrap:wrap;justify-content:space-between;gap:6px; }
-.work-page .award .what { color:var(--navy);font-weight:700; }
-.work-page .award .yr { color:var(--muted);font-variant-numeric:tabular-nums; }
+.work-page .award { padding:14px 0;border-bottom:1px solid var(--rule);display:flex;justify-content:space-between;align-items:baseline;gap:18px; }
+.work-page .award > span:first-child { flex:1; }
+.work-page .award .yr { color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap;flex-shrink:0; }
 
 @media (max-width:560px){ .work-page article h2{font-size:23px} .work-page .metric .num{font-size:27px} }
