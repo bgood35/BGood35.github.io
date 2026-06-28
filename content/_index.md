@@ -1,12 +1,11 @@
 ---
-title: "Welcome. Why are you here?"
+title: "Brandon Goodman — Integrated Marketing Leader"
+description: "Brandon Goodman is an audience-led, data-informed integrated marketing leader with 15+ years across media agencies and brand-side roles, using media and communications to drive measurable business results for brands including Campbell's and Groupe Bel."
 draft: false
 ---
 
-I have no idea why you are on this page reading this, but I can tell you why I wrote it.
+I'm an audience-led, data-informed integrated marketer — 15+ years using media and communications to drive measurable business results. I built this site as a space to organize my thoughts about where marketing is heading and to keep experimenting with A.I.
 
-In pursuit of creating an AEO/GEO roadmap for my brands, I learned how to write HTML code so that I could understand how these programs consume content. Going further down the A.I. rabbit hole, I wanted to explore the tasks I could outsource to an A.I. assistant to simplify my personal life. This then evolved to see if I could create a professional avatar or digital twin…which requires original content that an LLM can easily access and interpret.
+Some context: in building an AEO/GEO roadmap for Groupe Bel, I taught myself enough HTML to understand how large language models (LLMs) read content. That sent me down the A.I. rabbit hole — first to see what I could hand off to an assistant, then toward building a reliable "digital twin." Because that takes original content an LLM can find and interpret, I started writing.
 
-Welcome to my scratch pad. I welcome your thoughts, perspective, and criticisms, but to be clear, I want to stress what this is intended to be and what it is not.
-
-![Intro table](/Images/landing-page-table.png)
+Think of this as a working experiment, out in the open. I welcome your thoughts, perspectives, and criticism.

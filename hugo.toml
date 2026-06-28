@@ -1,12 +1,12 @@
 baseURL = "https://bgood35.github.io/"
 languageCode = "en-us"
-title = "Brandon G"
+title = "Brandon Goodman — Integrated Marketing Leader"
 theme = "PaperMod"
 paginate = 5
 
 [params]
   author = "Brandon Goodman"
-  description = "Brandon Goodman is an Integrated Marketing leader with 15+ years of experience stewarding $100M+ portfolios for global brands like Google, Campbell's Snacks, and Groupe Bel. Expert in modernizing operating models, AEO/GEO roadmaps, and audience-led strategy. Brand Innovators 40 Under 40 honoree and creator of Media Musings."
+  description = "Brandon Goodman is an audience-led, data-informed integrated marketing leader with 15+ years across media agencies and brand-side roles, using media and communications to drive measurable business results for brands including Campbell's and Groupe Bel."
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
