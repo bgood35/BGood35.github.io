@@ -18,6 +18,7 @@
       <span data-role="current">1</span> / <span data-role="total">{{ $total }}</span>
     </span>
     <button type="button" class="deck-carousel__btn" data-action="next" aria-label="Next slide">Next &#8250;</button>
+    <button type="button" class="deck-carousel__btn deck-carousel__btn--fullscreen" data-action="fullscreen" aria-label="View fullscreen">&#9974; Fullscreen</button>
   </div>
 </div>
 
@@ -84,6 +85,23 @@
     min-width: 4.5rem;
     text-align: center;
   }
+  #{{ $id }} .deck-carousel__btn--fullscreen {
+    margin-left: auto;
+  }
+  #{{ $id }}.deck-carousel:fullscreen,
+  #{{ $id }}.deck-carousel:-webkit-full-screen {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    border: none;
+    border-radius: 0;
+  }
+  #{{ $id }}.deck-carousel:fullscreen .deck-carousel__viewport,
+  #{{ $id }}.deck-carousel:-webkit-full-screen .deck-carousel__viewport {
+    flex: 1 1 auto;
+    aspect-ratio: auto;
+  }
 </style>
 
 <script>
@@ -115,5 +133,25 @@
     if (e.key === "ArrowLeft") show(index - 1);
     if (e.key === "ArrowRight") show(index + 1);
   });
+
+  var fsBtn = root.querySelector('[data-action="fullscreen"]');
+  function isFullscreen() {
+    return document.fullscreenElement === root || document.webkitFullscreenElement === root;
+  }
+  function updateFsLabel() {
+    fsBtn.innerHTML = isFullscreen() ? "&#10005; Exit fullscreen" : "&#9974; Fullscreen";
+  }
+  fsBtn.addEventListener("click", function () {
+    if (isFullscreen()) {
+      if (document.exitFullscreen) document.exitFullscreen();
+      else if (document.webkitExitFullscreen) document.webkitExitFullscreen();
+    } else if (root.requestFullscreen) {
+      root.requestFullscreen();
+    } else if (root.webkitRequestFullscreen) {
+      root.webkitRequestFullscreen();
+    }
+  });
+  document.addEventListener("fullscreenchange", updateFsLabel);
+  document.addEventListener("webkitfullscreenchange", updateFsLabel);
 })();
 </script>
