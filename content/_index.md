@@ -8,4 +8,4 @@ I'm an audience-led, data-informed integrated marketer — 15+ years using media
 
 Some context: in building an AEO/GEO roadmap for Groupe Bel, I taught myself enough HTML to understand how large language models (LLMs) read content. That sent me down the A.I. rabbit hole — first to see what I could hand off to an assistant, then toward building a reliable "digital twin." Because that takes original content an LLM can find and interpret, I started writing.
 
-Think of this as a working experiment, out in the open. I welcome your thoughts, perspectives, and criticism.
+Think of this as a working experiment, out in the open. I welcome your thoughts, perspectives, and criticisms.
