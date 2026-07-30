@@ -1,0 +1,119 @@
+{{ $data := index site.Data (.Get "data") }}
+{{ $id := .Get "id" | default "deck-carousel" }}
+{{ $total := len $data }}
+<div class="deck-carousel" id="{{ $id }}">
+  <div class="deck-carousel__viewport">
+    {{ range $i, $slide := $data }}
+    <img
+      src="{{ $slide.src | relURL }}"
+      alt="{{ $slide.alt }}"
+      class="deck-carousel__slide{{ if eq $i 0 }} is-active{{ end }}"
+      data-index="{{ $i }}"
+      loading="lazy">
+    {{ end }}
+  </div>
+  <div class="deck-carousel__controls">
+    <button type="button" class="deck-carousel__btn" data-action="prev" aria-label="Previous slide">&#8249; Prev</button>
+    <span class="deck-carousel__counter">
+      <span data-role="current">1</span> / <span data-role="total">{{ $total }}</span>
+    </span>
+    <button type="button" class="deck-carousel__btn" data-action="next" aria-label="Next slide">Next &#8250;</button>
+  </div>
+</div>
+
+<style>
+  #{{ $id }}.deck-carousel {
+    margin: 1.5rem 0;
+    border: 1px solid #22405f;
+    border-radius: 8px;
+    background: #16324f;
+    overflow: hidden;
+  }
+  #{{ $id }} .deck-carousel__viewport {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    background: #0f2438;
+  }
+  #{{ $id }} .deck-carousel__slide {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.25s ease;
+  }
+  #{{ $id }} .deck-carousel__slide.is-active {
+    opacity: 1;
+    visibility: visible;
+  }
+  #{{ $id }} .deck-carousel__controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.25rem;
+    padding: 0.65rem 1rem;
+    background: #1b3a5c;
+    border-top: 1px solid #22405f;
+  }
+  #{{ $id }} .deck-carousel__btn {
+    appearance: none;
+    border: 1px solid #4f83b3;
+    background: #1e4770;
+    color: #eaf1f8;
+    font-size: 0.9rem;
+    line-height: 1;
+    padding: 0.5rem 0.9rem;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background 0.15s ease, border-color 0.15s ease;
+  }
+  #{{ $id }} .deck-carousel__btn:hover {
+    background: #4f83b3;
+    border-color: #7fb0dd;
+  }
+  #{{ $id }} .deck-carousel__btn:focus-visible {
+    outline: 2px solid #7fb0dd;
+    outline-offset: 2px;
+  }
+  #{{ $id }} .deck-carousel__counter {
+    color: #cfe0ef;
+    font-size: 0.9rem;
+    min-width: 4.5rem;
+    text-align: center;
+  }
+</style>
+
+<script>
+(function () {
+  var root = document.getElementById({{ $id }});
+  if (!root) return;
+  var slides = root.querySelectorAll(".deck-carousel__slide");
+  var currentEl = root.querySelector('[data-role="current"]');
+  var index = 0;
+
+  function show(next) {
+    if (next < 0) next = slides.length - 1;
+    if (next >= slides.length) next = 0;
+    slides[index].classList.remove("is-active");
+    slides[next].classList.add("is-active");
+    index = next;
+    currentEl.textContent = index + 1;
+  }
+
+  root.querySelector('[data-action="prev"]').addEventListener("click", function () {
+    show(index - 1);
+  });
+  root.querySelector('[data-action="next"]').addEventListener("click", function () {
+    show(index + 1);
+  });
+
+  root.setAttribute("tabindex", "0");
+  root.addEventListener("keydown", function (e) {
+    if (e.key === "ArrowLeft") show(index - 1);
+    if (e.key === "ArrowRight") show(index + 1);
+  });
+})();
+</script>
