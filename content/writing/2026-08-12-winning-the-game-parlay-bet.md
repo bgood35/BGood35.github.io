@@ -4,6 +4,7 @@ date: 2026-08-12
 draft: false
 description: "AI-first isn't a strategy. But AI can help price the compounding, cross-functional risk in how a business allocates resources — like the legs of a parlay bet."
 tags: ["AI", "Strategy", "Integrated Marketing", "Marketing Effectiveness", "Risk", "Resource Allocation"]
+aliases: ["/posts/2026-08-12-winning-the-game-parlay-bet/"]
 ---
 
 At a recent ANA conference full of thoughtful AI applications, one presenter's pitch for adopting an "AI-first" strategy stopped me cold, creating urgency by stating with confidence and precision that every dollar not invested in AI today would cost an organization $2.18 to catch up next week. As an optimistic AI pragmatist, I see the virtue in integrating AI into one's workflow while still questioning the numbers, but the larger issue is that "AI-first" isn't a strategy. A technology with countless possible uses gives the people executing no direction on *which* problem to solve or *how* — and strategy has to start with the problem, not the tool.
@@ -24,7 +25,7 @@ By building an integrated model across departments, organizations can better und
 
 - Changes to the cost of goods or the inability to ship products on time can greatly impact Marketing and Trade budgets if they are linked to a percentage of sales or profit.
 - A competitor starting to compete on price can quickly hurt market share and cash flow, but as [Mark Ritson cautions](https://www.thedrum.com/opinion/mark-ritson-your-next-discount-may-be-your-last-10-reasons-to-never-ever-cut-prices), competing this way can impact your relationships with distributors, retailers, and customers, requiring you to revisit your long-term trade budgets and profitability forecasts.
-- Unexpected competitive activity can negatively impact [eSOV assumptions that were used to create your Integrated Marketing plan](/posts/2026-07-30-brand-positioning-is-a-verb/), creating a need for more brand building or conversion support to recruit the expected number of new households.
+- Unexpected competitive activity can negatively impact [eSOV assumptions that were used to create your Integrated Marketing plan](/writing/2026-07-30-brand-positioning-is-a-verb/), creating a need for more brand building or conversion support to recruit the expected number of new households.
 
 The purpose of the exercise is not to change how each department builds their respective strategies or plans, but to give leaders confidence in how they manage resources when things ultimately change. The sobering fact is that the more legs a parlay includes, the worse the odds get, even as the ability to forecast each underlying event improves.
 

@@ -4,6 +4,7 @@ date: 2026-05-22
 draft: false
 tags: ["marketing", "artificial intelligence", "strategy", "media", "digital transformation"]
 description: "A.I. won't fix marketing's measurement problems — but it will expose them. The real challenge isn't learning to prompt; it's learning to think."
+aliases: ["/posts/my-first-post/"]
 ---
 
 A.I. is an amazing tool that will make marketers more effective — after we spend months using it in ways that make marketing less effective. We've learned that optimizing towards ROAS or Engagement Rates can hurt brand growth despite improved attribution, yet we believe A.I. can overcome this without addressing the underlying gaps in the data. Rather than bolting A.I. onto our current ways-of-working, we need to imagine how we'd build those ways-of-working if A.I. capabilities were always there.

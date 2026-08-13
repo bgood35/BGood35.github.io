@@ -2,6 +2,7 @@
 title: "Strategy Cannot Survive a Polluted Culture"
 date: 2026-06-08
 draft: false
+aliases: ["/posts/2026-06-08-strategy-and-ai/"]
 ---
 
 > "Show me the incentive and I'll show you the outcome." — Charlie Munger

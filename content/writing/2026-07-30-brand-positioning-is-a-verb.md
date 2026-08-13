@@ -4,6 +4,7 @@ date: 2026-07-30
 draft: false
 tags: ["marketing", "brand strategy", "positioning", "strategy"]
 description: "Building on Paul Syng's six-doors framework, brand positioning is reframed as a fundable, risk‑managed asset rather than ad copy — one marketers can defend to a skeptical CFO."
+aliases: ["/posts/2026-07-30-brand-positioning-is-a-verb/"]
 ---
 
 After walking through how six leading thinkers — Sharp, Ritson, Sutherland, Veselinovic, Joachimsthaler, and the Porter–Martin–Barney strategy tradition — approached brand positioning from different perspectives, [Paul Syng put a firm stake in the ground by identifying how a position is built: by repeating costly, hard-to-copy decisions that wire themselves into a buyer's memory](https://paulsyng.com/blog/six-doors-one-room/).

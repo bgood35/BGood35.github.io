@@ -26,11 +26,11 @@ paginate = 5
 
 [menu]
   [[menu.main]]
-    name = "Thoughts"
-    url = "/posts/"
+    name = "Writing"
+    url = "/writing/"
     weight = 1
   [[menu.main]]
-    name = "Past Work"
+    name = "Work"
     url = "/portfolio/"
     weight = 2
   [[menu.main]]
