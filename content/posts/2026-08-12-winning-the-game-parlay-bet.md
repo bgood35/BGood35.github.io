@@ -1,8 +1,8 @@
 ---
-title: "Winning the Game: Using AI to Treat Your Business Like a Parlay Bet"
+title: "Using AI to Price the Parlay Risk in Your Business Plan"
 date: 2026-08-12
 draft: false
-description: "AI-first isn't a strategy. Using Koen Pauwels's parlay fallacy, a case for AI that prices approximate, honest odds across functions to manage risk — augmenting leaders' judgment rather than replacing it."
+description: "AI-first isn't a strategy. But AI can help price the compounding, cross-functional risk in how a business allocates resources — like the legs of a parlay bet."
 tags: ["AI", "Strategy", "Integrated Marketing", "Marketing Effectiveness", "Risk", "Resource Allocation"]
 ---
 
