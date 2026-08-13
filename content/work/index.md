@@ -1,6 +1,7 @@
 ---
-title: "Past Work"
+title: "Work"
 draft: false
+aliases: ["/portfolio/"]
 ---
 
 <div class="work-page">
