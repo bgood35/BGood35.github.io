@@ -33,10 +33,11 @@ Influencing AI results isn't analogous to managing a channel, but to a messaging
 
 ### The AI Discoverability Framework
 
+{{< deck-carousel data="ai-discoverability-deck" id="ai-discoverability-deck" >}}
+
 [View or download the full framework (PDF)](/pdfs/ai_discoverability_2026_09_14.pdf).
 
 As always, open to your comments, questions, and criticisms.
 
-Be good,
-
+Be good,  
 Brandon
