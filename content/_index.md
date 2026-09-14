@@ -4,8 +4,13 @@ description: "Brandon Goodman is an audience-led, data-informed integrated marke
 draft: false
 ---
 
-I'm an audience-led, data-informed integrated marketer — 15+ years using media and communications to drive measurable business results. I built this site as a space to organize my thoughts about where marketing is heading and to keep experimenting with A.I.
+"Advertising is both an art and a science." While I agree with the sentiment, the phrase is too often used to side-step questions about how data, a theory, a hypothesis, an experience, or judgment informed a recommendation. A recommendation should be able to withstand a CFO's scrutiny, and demonstrate how the investment will produce a positive business outcome.
 
-Some context: in building an AEO/GEO roadmap for Groupe Bel, I taught myself enough HTML to understand how large language models (LLMs) read content. That sent me down the A.I. rabbit hole — first to see what I could hand off to an assistant, then toward building a reliable "digital twin." Because that takes original content an LLM can find and interpret, I started writing.
+The purpose of this site is to bridge agency-side craft with a business-side assessment of the financial stakes. Having seen the effectiveness (craft) vs. efficiency (ROI) debate play out in both agency- and brand-side roles, I created this space to work through CMO challenges through the lens of the CFOs.
 
-Think of this as a working experiment, out in the open. I welcome your thoughts, perspectives, and criticisms.
+I invite others to use, debate, or iterate on what I've created. I consider everything a work in progress, done in the open so that others can challenge my perspective and push my own understanding of the topics in question.
+
+<blockquote>
+"Intellectual humility is the ability to recognize the edge of your own knowledge and sit with that discomfort rather than trying to rush to fill it."
+<footer>— <a href="https://www.wsj.com/tech/ai/is-ai-smarter-than-humans-cyborg-956e0f0e" target="_blank">Vivienne Ming, Wall Street Journal</a></footer>
+</blockquote>
