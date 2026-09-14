@@ -3,7 +3,7 @@ title: "Building AI Capabilities Against a Moving Target"
 date: 2026-09-14
 draft: false
 tags: ["marketing", "AI", "AI discoverability", "strategy"]
-description: "As AI narrows the gap between comprehension and production, this piece argues for better marketers instead of more of them, and makes the case for AI Discoverability as a shared responsibility within Integrated Marketing rather than a new, bespoke channel."
+description: "As AI narrows the gap between comprehension and production, this piece makes the case for AI Discoverability to be the shared responsibility of Integrated Marketing."
 ---
 
 I agree with [OpenAI's CMO for Business, Colin Fleming, that everyone can "do Marketing"](https://www.linkedin.com/pulse/what-happens-when-everyone-can-do-marketing-colin-fleming-b7dac?utm_source=share&utm_medium=member_android&utm_campaign=share_via) because he correctly cautioned that "everyone can also create something forgettable…Someone still has to get the strategy right before the positioning, and the positioning right before the message." What should be a concern for businesses that rely on Marketing as a practice, not just marketers, is that OpenAI's [Work at the Frontier](https://cdn.openai.com/pdf/work-at-the-frontier-report.pdf) showed how quickly AI has been adopted by non-marketers to execute Marketing tasks more than those related to other functions. Echoing Mark Ritson, [we need better marketers](https://www.adweek.com/brand-marketing/two-thirds-of-american-marketers-would-fail-a-basic-marketing-test/), not more of them.

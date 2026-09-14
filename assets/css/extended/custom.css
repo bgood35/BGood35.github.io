@@ -83,6 +83,15 @@ h1, h2, h3, h4, h5, h6,
 
 @media (max-width:560px){ .work-page article h2{font-size:23px} .work-page .metric .num{font-size:27px} }
 
+/* ---- Homepage "Connect" social-icon block ----
+   PaperMod's .first-entry box has min-height:320px and vertically
+   centers its content, which strands the icon far below the Intro
+   copy above it. Tighten it so it sits right under the content. */
+.home-info.first-entry { min-height: 0; justify-content: flex-start; margin: 6px 0 var(--gap) 0; }
+.home-info .entry-header { display: none; }
+.home-info .entry-content { margin: 0 0 6px; font-size: 14px; }
+.home-info .entry-footer .social-icons { margin-left: -10px; }
+
 /* ============================================================
    TWO-COLUMN BLOCK — for side-by-side conflicting viewpoints
    in post content (e.g. writing posts). Scoped to .post-content
