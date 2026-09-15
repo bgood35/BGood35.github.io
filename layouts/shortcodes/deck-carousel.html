@@ -155,3 +155,8 @@
   document.addEventListener("webkitfullscreenchange", updateFsLabel);
 })();
 </script>
+
+{{ if not ($.Page.Store.Get "deckTrackingLoaded") }}
+<script src="{{ "js/deck-tracking.js" | relURL }}" defer></script>
+{{ $.Page.Store.Set "deckTrackingLoaded" true }}
+{{ end }}
