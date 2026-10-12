@@ -1,6 +1,6 @@
 ---
 title: "Brandon Goodman — Integrated Marketing Leader"
-description: "Brandon Goodman is an audience-led, data-informed integrated marketing leader with 15+ years across media agencies and brand-side roles, using media and communications to drive measurable business results for brands including Campbell's and Groupe Bel."
+description: "Brandon Goodman is an audience-led, data-informed integrated marketing leader with 15+ years across media agencies and brand-side roles, using media and communications to drive measurable business growth for brands including Campbell's and Groupe Bel."
 draft: false
 ---
 
